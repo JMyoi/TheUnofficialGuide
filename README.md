@@ -1,5 +1,14 @@
 # The Unofficial Guide — Project 1
 
+## Quick Start
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+Set `GROQ_API_KEY` in your environment before asking grounded questions.
+
 > **How to use this template:**
 > Complete each section *after* you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.

@@ -36,7 +36,7 @@ def build_parser() -> argparse.ArgumentParser:
     ask_parser.add_argument("query", type=str)
     ask_parser.add_argument("--persist-dir", type=Path, default=Path("chroma_db"))
     ask_parser.add_argument("--top-k", type=int, default=4)
-    ask_parser.add_argument("--model", type=str, default="llama-3.1-8b-instant")
+    ask_parser.add_argument("--model", type=str, default="llama-3.3-70b-versatile")
 
     return parser
 

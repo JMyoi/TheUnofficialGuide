@@ -57,7 +57,7 @@ def generate_answer(
     query: str,
     retrieved_chunks: list[RetrievedChunk],
     *,
-    model: str = "llama-3.1-8b-instant",
+    model: str = "llama-3.3-70b-versatile",
     temperature: float = 0.2,
     api_key: str | None = None,
     client: object | None = None,
@@ -73,8 +73,8 @@ def generate_answer(
     system_prompt = (
         "You are a grounded assistant for the Unofficial Guide to College of Staten Island. "
         "Answer only from the supplied context. If the context does not contain enough evidence, "
-        "say that you do not know. Do not invent details. Every factual claim must be supported "
-        "with bracket citations like [1] or [2]. When you mention multiple claims, cite each one. "
+        "say 'I don't have enough information on that.' Do not invent details. Every factual claim "
+        "must be supported with bracket citations like [1] or [2]. When you mention multiple claims, cite each one. "
         "Keep the answer concise and useful."
     )
 
