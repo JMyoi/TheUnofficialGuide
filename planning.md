@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+College of Staten Island student knowledge about professor quality, campus housing, admissions, academics, and campus life. This knowledge is valuable because official CSI pages explain policies and offerings, but they do not capture how courses actually feel, which professors are clear or strict, or how students experience housing and campus community day to day.
 
 ---
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | CSI student housing information | Official housing guide and support details | https://www.csi.cuny.edu/admissions/new-student-guide/undergraduate-guide/student-housing-information |
+| 2 | CSI student financial aid and campus housing | Official aid and housing information | https://www.csi.cuny.edu/admissions/paying-college/financial-aid/student-financial-aid-and-campus-housing-csi |
+| 3 | Rate My Professors CSI school page | Student ratings and review summaries for CSI professors | https://www.ratemyprofessors.com/school/225 |
+| 4 | Rate My Professors: Mojgan Keshtgar | Professor-specific review page with course-level feedback | https://www.ratemyprofessors.com/professor/886156 |
+| 5 | Rate My Professors: Susan Cohen | Professor-specific review page with course-level feedback | https://www.ratemyprofessors.com/professor/2108253 |
+| 6 | U.S. News CSI profile | Aggregate college overview, rankings, and campus metrics | https://www.usnews.com/best-colleges/cuny-college-of-staten-island-29040 |
+| 7 | Niche CSI profile | Student reviews, campus life, academics, and admissions details | https://www.niche.com/colleges/cuny-college-of-staten-island/ |
+| 8 | CSI Dolphins athletics site | Student athletics and campus sports community context | https://csidolphins.com/ |
+| 9 | CSI departments and programs | Official academic departments and program overview | https://www.csi.cuny.edu/academics-and-research/departments-programs |
+| 10 | CSI admissions | Official admissions information and pathways | https://www.csi.cuny.edu/admissions |
 
 ---
 
@@ -73,11 +73,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about Professor Mojgan Keshtgar's workload and grading style? | Reviews describe her as clear and well liked by many students, but also test-heavy and fast paced in some classes. |
+| 2 | What do students say about Professor Susan Cohen's teaching style? | Reviews describe her as caring, supportive, and often giving homework or exam help in class. |
+| 3 | What do students say about CSI campus life and social scene? | Students often describe CSI as commuter-heavy, quieter than a traditional residential campus, and improved by clubs, sports, and individual effort. |
+| 4 | What does CSI's housing-related information say about campus housing support? | The official pages explain housing-related support and financial aid context, not student gossip or apartment quality. |
+| 5 | What do CSI student reviews say about professors, advising, or communication? | Students often praise individual professors but criticize inconsistent advising, registration, and administrative communication. |
 
 ---
 
