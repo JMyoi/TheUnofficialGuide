@@ -1,14 +1,5 @@
 # The Unofficial Guide — Project 1
 
-## Quick Start
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-Set `GROQ_API_KEY` in your environment before asking grounded questions.
-
 > **How to use this template:**
 > Complete each section *after* you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
@@ -18,7 +9,10 @@ Set `GROQ_API_KEY` in your environment before asking grounded questions.
 
 ## Domain
 
-College of Staten Island student knowledge about professors, campus housing, admissions, academics, and campus life. This is useful because CSI's official pages explain policies and programs, but they do not capture the lived student perspective on workload, teaching style, commuter life, or how campus support actually feels in practice.
+<!-- What topic or category of knowledge does your system cover?
+     Why is this knowledge valuable, and why is it hard to find through official channels?
+     Example: "Student reviews of CS professors at [university] — useful because official
+     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 ---
 
@@ -30,26 +24,16 @@ College of Staten Island student knowledge about professors, campus housing, adm
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | CSI student housing information | Official guide | https://www.csi.cuny.edu/admissions/new-student-guide/undergraduate-guide/student-housing-information |
-| 2 | CSI student financial aid and campus housing | Official guide | https://www.csi.cuny.edu/admissions/paying-college/financial-aid/student-financial-aid-and-campus-housing-csi |
-| 3 | Rate My Professors CSI school page | Student review site | https://www.ratemyprofessors.com/school/225 |
-| 4 | Rate My Professors: Mojgan Keshtgar | Student review page | https://www.ratemyprofessors.com/professor/886156 |
-| 5 | Rate My Professors: Susan Cohen | Student review page | https://www.ratemyprofessors.com/professor/2108253 |
-| 6 | U.S. News CSI profile | College profile | https://www.usnews.com/best-colleges/cuny-college-of-staten-island-29040 |
-| 7 | Niche CSI profile | Review and campus-life profile | https://www.niche.com/colleges/cuny-college-of-staten-island/ |
-| 8 | CSI Dolphins athletics site | Campus athletics site | https://csidolphins.com/ |
-| 9 | CSI departments and programs | Official academic departments page | https://www.csi.cuny.edu/academics-and-research/departments-programs |
-| 10 | CSI admissions | Official admissions page | https://www.csi.cuny.edu/admissions |
-
-## Milestone 1 Questions
-
-The system should be able to answer questions like:
-
-1. What do students say about a specific CSI professor's workload, grading, or exam style?
-2. Which CSI professors are described as especially clear, caring, or tough?
-3. What do students say about CSI campus life, commuting, and social scene?
-4. What housing-related guidance does CSI provide, and what student concerns are not covered in the official pages?
-5. What do CSI students say about advising, registration, and communication with departments?
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+| 6 | | | |
+| 7 | | | |
+| 8 | | | |
+| 9 | | | |
+| 10 | | | |
 
 ---
 
