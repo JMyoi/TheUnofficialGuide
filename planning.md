@@ -38,6 +38,8 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
 
 ---
 
+
+
 ## Chunking Strategy
 
 <!-- How will you split documents into chunks?
@@ -45,11 +47,13 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size: 500 characters**
 
-**Overlap:**
+**Overlap: 75 characters**
 
-**Reasoning:**
+**Using Langchains RecursiveCharacterTextSplitter**
+
+**Reasoning: I will use recursive character splitting, since the document is of mixed types, and have some structure to it, My sources are Structered and factual, course deccriptions, faculty bios, program requirements, They are not flowing essays, they're short and dnese paragraphs where each part is a complete idea, 500 characters is about 2-5 sentences, enough to captuer a complete fact like a course description, too large might merge unrelated courses, too small will cut descriptions in half.**
 
 ---
 
@@ -61,11 +65,13 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model: sentence-transformers (all-MiniLM-L6-v2) Runs locally — no API key, no rate limits**
 
-**Top-k:**
+**Vector Store: ChromaDB**
 
-**Production tradeoff reflection:**
+**Top-k: 5**
+
+**Production tradeoff reflection: for this project the all-MiniLM-L6-v2 runs locally with no API cost or rate limit, ideal for this type of practice development, IF it was a real deployment I would weight stuff like accuracy, OpenAI embedding model producs more high quality embeddings, but it's paid, open AI's embedding produces more context lenght aroudn 8k tokens whereas all-MiniLM-L6-v2 is only 256 token imput limit,**
 
 ---
 
@@ -78,11 +84,12 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |What are some core courses that I will take in the computer science major?|CSC 126, CSC 211, CSC326 CSC 382  |
+| 2 |what are the Computer Science Specializaitons?|Game Dev, Networking and Security, High Performance Computing, Data Science |
+| 3 |What AI related or maching learning courses are offered at CSI?|CSC 412, CSC 245, CSC 480, CSC 735 |
+| 4 |What are the required courses for the Masters of Computer Science at CSI?|CSC 716, CSC 727, CSC 740, CSC 759 |
+| 5 |Who is the Distinguished professor in the CS department?|Sos Agaian |
+| 6 |What is CSC 777 about?|There is no CSC 777 |
 
 ---
 
@@ -92,9 +99,9 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1.Since there is no specifics that point out to core courses it may just give random courses.
 
-2.
+2.it might hallucinate for courses that are not there?
 
 ---
 
@@ -107,7 +114,7 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ---
-
+![RAG Pipeline Architecture](image.png)
 ## AI Tool Plan
 
 <!-- For each part of the pipeline below, describe:
@@ -119,6 +126,19 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+
+For the Chunking Part I will ask Claude to generate the code to chunk the text data in the data folder which holds all the txt files of the web content using LangChainsRecursiveCharacterTextSplitter .
+
+For Embedding I will ask Claude to generate code to embedd the chunks using all-MiniLM-L6-v2
+
+for Vector Store I will ask claude to set that up with ChromaDB
+
+For the online retrieval poriton I will ask claude to geneate code to Embed the query, 
+Then Semantic search the ChromaDB using Cosine Similairty with top K=5 and return that to be used for a prompt. 
+Claude will generate a prompt template iwth the chunks and original query, also safe guard to base the answer off of the context chunks retrieved and to also put the source file which the chunks came from, 
+Then it shoudl call the GroQ API to generate the Response, 
+
+After that I will make a clean and Simple UI verison of it using Gradio.
 
 **Milestone 3 — Ingestion and chunking:**
 
