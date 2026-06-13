@@ -47,14 +47,13 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      - Overlap size and why (or why not) you used overlap
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
+**Chunk size: 500 characters**
 
-**Chunk size:**
+**Overlap: 75 characters**
 
-**Overlap:**
+**Using Langchains RecursiveCharacterTextSplitter**
 
-**Why these choices fit your documents:**
-
-**Final chunk count:**
+**Reasoning: I will use recursive character splitting, since the document is of mixed types, and have some structure to it, My sources are Structered and factual, course deccriptions, faculty bios, program requirements, They are not flowing essays, they're short and dnese paragraphs where each part is a complete idea, 500 characters is about 2-5 sentences, enough to captuer a complete fact like a course description, too large might merge unrelated courses, too small will cut descriptions in half.**
 
 ---
 
@@ -66,9 +65,9 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:*sentence-transformers (all-MiniLM-L6-v2) Runs locally — no API key, no rate limits*
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection: for this project the all-MiniLM-L6-v2 runs locally with no API cost or rate limit, ideal for this type of practice development, IF it was a real deployment I would weight stuff like accuracy, OpenAI embedding model producs more high quality embeddings, but it's paid, open AI's embedding produces more context lenght aroudn 8k tokens whereas all-MiniLM-L6-v2 is only 256 token imput limit:**
 
 ---
 
@@ -81,9 +80,14 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      Do not just say "I told it to use the documents" — show the actual instruction or explain
      the mechanism. -->
 
-**System prompt grounding instruction:**
+**System prompt grounding instruction:You are a helpful assistant for students at CUNY College of Staten Island's Computer Science department.
+Answer the question using ONLY the information in the provided document excerpts.
+Do not use any outside knowledge.
+If the documents don't contain enough information to answer, say exactly: "I don't have enough information on that."
+At the end of your answer, list the source files you used on a line starting with "Sources:".
+**
 
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:The system prompt instructs the model to end every response with a line starting with Sources: listing the filenames it drew from**
 
 ---
 
@@ -95,11 +99,11 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | What are some core courses that I will take in the computer science major? | CSC 126, CSC 211, CSC 326, CSC 382 | The documents do not specifically list the core courses for the CS major, but mention graduate core courses (CSC 716, 727, 740, 770) and undergraduate intro course CSC 126. Sources: Undergraduate.txt, CSICSPage.txt, Graduate.txt | Partially relevant | Partially accurate |
+| 2 | What are the Computer Science Specializations? | Game Dev, Networking and Security, High Performance Computing, Data Science | BS specializations: Game Development, Networking and Security, High Performance Computing, Data Science. MS specializations: AI and Data Analytics, Cloud Computing and Software Engineering, Cybersecurity and Networks. Sources: CSHomePage.txt, Undergraduate.txt | Relevant | Accurate |
+| 3 | What AI related or machine learning courses are offered at CSI? | CSC 412, CSC 245, CSC 480, CSC 735 | I don't have enough information on that. Sources: Graduate.txt, Undergraduate.txt, CSICSPage.txt, CSC211.txt, CSC126.txt | Off-target | Inaccurate |
+| 4 | What are the required courses for the Masters of Computer Science at CSI? | CSC 716, CSC 727, CSC 740, CSC 759 | Required core: CSC 716 (Advanced Operating Systems), CSC 727 (Algorithms and Information Structures), CSC 740 or CSC 770, CSC 759 or CSC 799. Plus 6 elective graduate courses for 30 total credits. Sources: Graduate.txt | Relevant | Accurate |
+| 5 | Who is the Distinguished professor in the CS department? | Sos Agaian | I don't have enough information on that. Sources: CSICSPage.txt, Undergraduate.txt, CSC126.txt, CSC326.txt, CSHomePage.txt | Off-target | Inaccurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -119,13 +123,15 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
+3, 
 **Question that failed:**
-
+What AI related or machine learning courses are offered at CSI?
 **What the system returned:**
-
+I don't have enough information on that. Sources: Graduate.txt, Undergraduate.txt, CSICSPage.txt, CSC211.txt, CSC126.txt
 **Root cause (tied to a specific pipeline stage):**
-
+A whole list of courses was given as data but I guess since they were in separate chunks, 8 returned chunks was not enough to get courses related to AI. 
 **What you would change to fix it:**
+Increase K for this quesiont could help.
 
 ---
 
@@ -134,9 +140,10 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
 <!-- Reflect on how planning.md shaped your implementation.
      Answer both questions with at least 2–3 sentences each. -->
 
-**One way the spec helped you during implementation:**
+**One way the spec helped you during implementation: specs helped alot because I had to research adn think about the choices I was going to make architectually and also when it came time to generate code since I already had everyything planned out it was easy and specific as to what I wanted and Claude did a good job at generating it**
 
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:When I first tested out the generation it seemed that most of the times it would respond with I don't have enough information so I realized that it did not have enough context so I increased k = 5 to k = 8 and it worked better.**
+
 
 ---
 
@@ -153,12 +160,14 @@ My domain I chose is "Everything Computer Science" for CUNY College of Staten Is
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:Asked claude to write the chunking logigc, I gave it the specs and the tools that I was planning ot use to implement the chunking as well as the size and overlap and the folder where the data was held.*
+ 
+- *What it produced: chunk.py which was the code implementation for chunking,* 
+
+- *What I changed or overrode: nothing*
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:asked claude to write logic for embeding query and semantic search the chromaDB for top k = 5 and prompt construction with Grounded generation and to generate with chunk context using GroqAPI and make a UI*
+- *What it produced: the code for the UI and logic for retrieval and generation*
+- *What I changed or overrode:nothing*
