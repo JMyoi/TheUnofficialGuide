@@ -1,0 +1,135 @@
+Advisement
+If your declared major is AAS Computer Technology, BS in Computer Science, or BS in Computer Science-Mathematics, you can find out who is your advisor on CUNYFirst. Please use the CS FlowChart for self-advisement.
+
+
+If your declared major or intended major is BS in Information Systems and Informatics (ISI), please contact the ISI coordinator, Prof. Louis Petingi or Prof. Soon Chun.
+Sign in to DegreeWorks here to see what courses you can take to fulfill the degree requirements and track your academic progress.
+
+View Undergraduate Catalog
+Transfer Students
+If you completed computer science coursework at another accredited college, and these credits did not convert to anything in the computer science catalog here (i.e. they show as CSC BKT credits in your CUNYfirst course history), you may request these credits be evaluated. Please complete the transfer credit evaluation. Include a copy of your transcript from the institution at which you completed the course, and either the course description (from that college's catalog) or syllabus.Submit these to 1N-215, or contact the department Chair.
+
+Transfer Credit Evaluation Form Download
+
+Tutoring
+Computer Science Tutoring Schedule      Office of Academic Support
+
+Associate in Applied Science (AAS) in Computer Technology
+
+Sample 2-year plan | Prerequisite Flowchart | Degree Requirements
+
+Degree checklist(Programming Sequence) | Degree checklist(Information Science Sequence)
+
+The Computer Science offers a Computer Technology program that focuses on general applications programming. Students can choose either the programming sequence of information science sequence. Students seeking a Bachelor’s degree in Computer Science should consult the requirements for the BS in Computer Science or the BS in Computer Science/Mathematics.
+
+Bachelor of Science (BS) in Computer Science
+- accredited by the Computing Accreditation Commission of ABET, http://www.abet.org​​
+
+Sample 4-year Degree/C​areer Map , Video | Prerequisite Flowchart | Degree Requirements
+
+Degree checklist (2023-2024 major catalog) | Degree checklist (2021-2023 major catalog)
+
+The Computer Science program offers a full four-year curriculum in computer science that prepares students for careers as computer professionals and/or for graduate study. The major provides a broad-based background in computer science and includes courses in computer software, systems, mathematics, and computer engineering. A student, under the guidance of a computer science adviser, may also select additional courses to pursue particular interests. Students interested in transferring into the program from the two-year Computer Technology program should consult the department chairperson.
+
+BS in Computer Science Specializations
+You may choose to earn specialization in one of the following areas. Open PDF Flyer!
+
+Please speak to your advisor if one of these specializations interests you so you plan to take the course responding to the specialization!
+
+#1	
+Game Development - iPhone, Android, Unity3D
+#2	
+Network and Security
+#3	
+High Performance Computing (HPC)
+#4	
+Data Science
+Graduate with Honors
+Students may graduate with honors in Computer Science. To receive honors, the student must have at least a 3.5 grade point average in courses taken in the major. The student must also complete an honors project by taking CSC 450, where the student works closely with a faculty member to define the project, carry out the research and investigation, and write the final report. The project must be approved by the department Chairperson. Students will receive credit through CSC 450 for their work on an honors project. CSC 450 cannot substitute for an elective course.
+
+Career Milestones
+Career Milestones
+
+See the sample 4-year degree/c​areer map for details.
+Bachelor of Science (BS) in Computer Science-Mathematics
+
+Sample 4-year Degree/C​areer Map | Degree checklist | Degree Requirements
+
+The Departments of Computer Science and Mathematics offer a joint BS degree program in Computer Science and Mathematics that provides a balance between these two disciplines with an emphasis on their applied aspects and their relationship to each other. Pre-Computer Science Sequence: 4 credits CSC 126 Introduction to Computer Science (4 credits) A grade of C or above in CSC 126 will be required for admission to the Computer Science/Mathematics Baccalaureate program.Students will be allowed to repeat the course, if necessary.
+
+Bachelor of Science (BS) in Information Systems and Informatics
+
+Sample 4-year Degree/C​areer Map | Flowchart | Degree Requirements
+
+The program in Information Systems and Informatics (ISI), offered as an interdisciplinary collaboration between the Departments of Marketing and Computer Science, provides students with core business and technical competencies to traverse the boundary between management and computer information technology. Students learn to design, develop, and implement state-of-the-art information systems to support managerial decision making, statistical modeling, and advanced analytics. The program prepares students for careers as business and systems analysts, designers and developers; data administrators; information systems consultants; and managers in information technology. The curriculum is based upon the guidelines provided by several professional associations including AACSB, ABET, and ACM.
+
+Computer Science Minor
+
+Computer Science Minor Requirements
+
+Computer Engineering Sequence or Computer Applications Programming Sequence
+
+
+Cyber Security Minor
+
+Cyber Security Minor Requirements
+
+
+Data Science Minor
+
+Data Science Minor Requirements
+
+
+Computational Linguistics Minor
+
+Computational Linguistics Minor Requirements
+
+
+Computer Science Graduate Course Double-Counting Policy
+
+Open PDF Flyer
+
+Undergraduate students majoring in Computer Science or CS/Mathematics and satisfying the following criteria may be granted permission to take up to three graduate courses at undergraduate tuition to be counted towards their bachelor’s degree. These courses may be used only to substitute for 400 level Computer Science elective courses (CSC designation). These graduate courses will be double-counted toward their master’s degree. This allows students to earn both the bachelor’s and the master’s degrees in five years.
+
+Criteria:
+
+1. Current enrollment in bachelor’s degree in Computer Science or Computer Science / Mathematics at CSI and successful completion of three years of study with 90 or more earned credits.
+
+2. Cumulative GPA 3.3 or above.
+
+3. Two letters of recommendation, at least one from a fulltime CSI Computer Science faculty under whom the applicant has studied.
+
+4. Permissions from the course instructor, the coordinator of the graduate program, and the department chairperson.
+
+5. Application for admission and conditional acceptance to the Computer Science graduate program.
+
+6. All graduate elective courses can be taken as double-counting courses, except the required core courses: CSC 716, CSC 727, CSC 740 and CSC 770.
+
+Our B.S. in Computer Science is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org
+111 Market Place, Suite 1050
+Baltimore, Maryland 21202-4012
+Telephone: (410) 347-7700
+
+Program Educational Objectives
+A few years after graduation, graduates will
+
+1. Hold responsible positions in computing related fields and/or be pursuing an advanced computing related degree
+
+2. Remain current in their field through the pursuit of life-long learning
+
+3. Use their core computing and problem solving knowledge
+
+Student Outcomes
+1. Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+
+2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+
+3. Communicate effectively in a variety of professional contexts.
+
+4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+
+5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+
+6. Apply computer science theory and software development fundamentals to produce computing-based solutions.​
+
+BS Program Enrollment

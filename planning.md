@@ -142,6 +142,51 @@ After that I will make a clean and Simple UI verison of it using Gradio.
 
 **Milestone 3 — Ingestion and chunking:**
 
+Loaded 12 documents from data/
+
+Total chunks: 175
+
+============================================================
+5 REPRESENTATIVE CHUNKS
+============================================================
+
+--- Chunk 1 (index 0) | source: ComputerScienceBS_DegreeMap.pdf ---
+Page 1 of 2
+SAMPLE CAREER DEGREE MAP
+Computer Science BS
+2025-PRESENT | Total Credits Required: 124
+Year One - First Semester Degree Requirements   Year One - First Semester Career Readiness
+Course Number & Title Min. Grade Cr. Recommended Career Readiness Activities Done
+ENG 111 ENGLISH COMPOSITION 3 Activate your Career Services Handshake
+MTH 123 COLLEGE ALGEBRA & TRIG OR MTH Start Building a Basic Resume
+125 COLLEGE ALGEBRA & TRIG WITH ALG. REV. 4 Review Major Required Courses
+[486 chars]
+
+--- Chunk 2 (index 43) | source: CourseCatalogWDescription.txt ---
+CSC 245 Introduction to Data Science    Basic concepts in data science. Topics covered are data collection, integration, management, modeling, analysis, visualization, prediction and decision making, data security and data privacy. Important statistical methods will be explored. Emphasis w...
+[290 chars]
+
+--- Chunk 3 (index 87) | source: CSC326.txt ---
+Regular Non-Liberal Arts
+Prerequisites & Corequisites
+PQ CSC 211 with a grade of C or higher or ENS 336
+Components
+Name
+Lecture
+[127 chars]
+
+--- Chunk 4 (index 131) | source: Graduate.txt ---
+Discrete Mathematics, Calculus
+    Probability or Linear Algebra
+Students who satisfy the requirements listed above will be admitted as matriculated graduate students.
+[167 chars]
+
+--- Chunk 5 (index 174) | source: Undergraduate.txt ---
+6. Apply computer science theory and software development fundamentals to produce computing-based solutions.​
+
+BS Program Enrollment
+[132 chars]
+
 **Milestone 4 — Embedding and retrieval:**
 
 **Milestone 5 — Generation and interface:**

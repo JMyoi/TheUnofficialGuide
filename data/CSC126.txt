@@ -1,0 +1,29 @@
+CSC 126
+Download as PDF
+CSC 126 - Introduction to Computer Science (4 cr)
+Computer ScienceSCI - Division of Science and Tech
+General
+Course Schedule
+
+Course Title
+Introduction to Computer Science
+Catalog Description
+Computing and information processing. Basic computer structure. Programming methodology: analysis, design, documentation, implementation, and evaluation. An algorithmic approach to problem-solving. Computer solutions of several numerical and non-numerical problems. Not open to Engineering majors.
+Course Attributes
+COPT - CSISTEM (CSI STEM), SPCF - SPCF (Supplemental Course Fees), UTCO - UT_COSC_1 (Programming I)
+Credit Hours
+Minimum
+4
+Max
+4
+Academic Progress Units
+4
+Requirement Designation
+RLA_FC_ScientificWorld
+Prerequisites & Corequisites
+Pre-Requisite or Co-Requisite: MTH 123, MTH 130, MTH 221, MTH 230, MTH 231, or MTH 235. Not open to Engineering majors.
+Components
+Name
+Laboratory
+Name
+Lecture

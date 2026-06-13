@@ -1,0 +1,25 @@
+CSC 382
+Download as PDF
+CSC 382 - Analysis of Algorithms (4 cr)
+Computer ScienceSCI - Division of Science and Tech
+General
+Course Schedule
+
+Course Title
+Analysis of Algorithms
+Catalog Description
+Algorithm development, including running time analysis and correctness arguments. Topics include: asymptotic notation and complexity analysis; use of mathematical techniques to determine the computational complexity of algorithms such as sorting and searching. The course provides an introduction and analysis of elementary graph algorithms and programming techniques such as greedy, backtracking, and dynamic programming. Projects will be assigned to correlate the computational complexity and real-time execution time of the algorithms.
+Credit Hours
+Minimum
+4
+Max
+4
+Academic Progress Units
+4
+Requirement Designation
+Regular Liberal Arts
+Prerequisites & Corequisites
+Prerequisites: CSC 326 with a grade of C or higher and CSC/MTH 228 with a grade of C or higher and MTH 232 with a grade of C or higher.
+Components
+Name
+Lecture

@@ -1,0 +1,27 @@
+CSC 211
+Download as PDF
+CSC 211 - Intermediate Programming (4 cr)
+Computer ScienceSCI - Division of Science and Tech
+General
+Course Schedule
+
+Course Title
+Intermediate Programming
+Catalog Description
+A second course in programming. Programming techniques emphasizing reliability, maintainability, and reusability. Module design and multi-file programs. Abstract data types. Data representation and conversion. Addresses, pointers, and dynamic storage allocation. Recursion and function parameters. User interface design. Prerequisite: CSC 126 with a grade C or better and MTH 123 or MTH 125 (or higher: specifically MTH 130, 221, 230, 231, or 235)..
+Course Attributes
+MECI - ME_COIS_3 (Programming II), UTCO - UT_COSC_2 (Programming II)
+Credit Hours
+Minimum
+4
+Max
+4
+Academic Progress Units
+4
+Requirement Designation
+Regular Non-Liberal Arts
+Prerequisites & Corequisites
+Prerequisite: CSC 126 with a grade C or better and Math 123 or higher.
+Components
+Name
+Lecture

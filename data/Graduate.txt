@@ -1,0 +1,109 @@
+Advisement
+Please contact Prof. Xiaowen Zhang, 1N-213    Email: Xiaowen.Zhang@csi.cuny.edu
+
+or view Graduate Catalog
+
+M.S. Program
+
+Degree Requirements | Tuition
+
+The program is designed to provide advanced education in this rapidly evolving and challenging discipline. It serves those students who wish to increase their professional competence for business, industry, and research and development laboratories, as well as those students who wish to enter careers in research and teaching. Students may continue in doctoral programs in computer science including the City University program in which CSI participates.(Ph.D.)
+
+All students are required to take 10 graduate courses (30 credits). These include three foundation courses, and seven additional Computer Science graduate courses. The three foundation courses cover theoretical computer science, advanced operating systems, computer architecture/parallel programming. Courses to meet the remaining requirements are chosen in consultation with a graduate program adviser to create a program that meets the needs of the individual student.
+
+Any other registered CSI graduate course in computer science shall be counted as an elective for the purposes of fulfilling the MS in Computer Science degree requirements, with the following exceptions: those courses specifically identified as computing for teachers or other computer science teacher education courses or those courses identified as graduate proficiency courses.
+
+Admission Requirements
+1. A Bachelor of Science degree in Computer Science or related area with a B average (3.0 out of 4.0) overall and in the major.
+2. Resume or CV
+3. Demonstrable knowledge of:
+    High-Level Programming Language(s), Data Structures, Software Design, Operating Systems
+    Digital Design, Computer Architecture
+    Discrete Mathematics, Calculus
+    Probability or Linear Algebra
+Students who satisfy the requirements listed above will be admitted as matriculated graduate students.
+
+Students transferring from other related majors will be permitted to remedy undergraduate course deficiencies as follows: students missing any of the listed subject(s) must take the corresponding undergraduate courses or take a challenge exam. No more than nine graduate credits may be completed before deficiencies have been remedied. Undergraduate courses taken to remove deficiencies must be in addition to the regular coursework for the MS degree.
+
+Degree Requirements
+A program of 10 courses (30 credits) with at least a 3.0 (B) average.
+
+The following core courses are required for all students:
+CSC 716	Advanced Operating Systems
+CSC 727	Algorithms and Information Structures
+CSC 740
+-or-
+CSC 770	Computer Systems Design
+
+Parallel Computing
+CSC 759
+-or-
+CSC 799	Graduate Research Laboratory
+
+Thesis Research
+The remaining six courses will be chosen from any of courses listed in the graduate catalog except CSC 602, CSC 702, CSC 702, and CSC 704. Click here for a complete list of graduate courses.
+
+Exceptional students may be permitted to satisfy six credits of the total credit requirement with a master's thesis. For specialization one must take two courses from one area and complete a master’s thesis or project.
+
+Specialization
+Please speak to your advisor if one of these specializations interests you so you can plan to take the corresponding courses!
+
+Specialization Areas
+Certain specialization areas within computer science are well represented by the department faculty research interests. Students interested in specializing in an area specified below are advised to select courses from the courses listed in that area. For additional CUNY Graduate Center courses in a specialization area, consult the graduate program coordinator.
+
+Artificial Intelligence and Data Analytics
+CSC 706	Computer Graphics
+CSC 725	Computer Vision
+CSC 731	Artificial Intelligence and Knowledge Engineering
+CSC 732	Neural Networks and Pattern Recognition
+CSC 733	Natural Language Processing
+CSC 735	Machine Learning and Data Mining
+CSC 741	Digital Image Processing
+CSC 747	Digital Signal Processing
+CSC 767	Neural Networks and Deep Learning
+CSC 769	Graph-Based Analysis for Big Data in Social Networks
+Cloud Computing and Software Engineering
+CSC 710	Software Engineering
+CSC 714	Software Systems Analysis and Design
+CSC 715	Data Base Theory
+CSC 754	Topics in System Simulation
+CSC 770	Parallel Computing
+Cybersecurity and Networks
+CSC 747	Digital Signal Processing
+CSC 756	Network Security
+CSC 762	Fundamentals of Wireless Communications
+CSC 768	Cryptography
+Computer Science Graduate Course Double-Counting Policy
+
+Open PDF Flyer
+
+Undergraduate students majoring in Computer Science or CS/Mathematics and satisfying the following criteria may be granted permission to take up to three graduate courses at undergraduate tuition to be counted towards their bachelor’s degree. These courses may be used only to substitute for 400 level Computer Science elective courses (CSC designation). These graduate courses will be double-counted toward their master’s degree. This allows students to earn both the bachelor’s and the master’s degrees in five years.
+
+Criteria:
+
+1. Current enrollment in bachelor’s degree in Computer Science or Computer Science / Mathematics at CSI and successful completion of three years of study with 90 or more earned credits.
+
+2. Cumulative GPA 3.3 or above.
+
+3. Two letters of recommendation, at least one from a fulltime CSI Computer Science faculty under whom the applicant has studied.
+
+4. Permissions from the course instructor, the coordinator of the graduate program, and the department chairperson.
+
+5. Application for admission and conditional acceptance to the Computer Science graduate program.
+
+6. All graduate elective courses can be taken as double-counting courses, except the required core courses: CSC 716, CSC 727, CSC 740 and CSC 770.
+
+Ph.D. Program
+
+The College participates in the CUNY Graduate School and University Center's Ph.D. program in Computer Science. Students wishing to specialize in the areas of artificial intelligence and data mining, multimedia and image processing, software engineering, management information systems, networks, telecommunication, or related areas may do much of their coursework and research at the College of Staten Island. Students are admitted to the program by the Graduate School and University Center 365 Fifth Avenue, New York, NY 10016, 212.817.7470; email: admissions@gc.cuny.edu; www.gc.cuny.edu , and are advised to contact the CSI Computer Science department.
+
+Ph.D. Admissions
+
+Graduate Center Ph.D. Program in Computer Science
+
+The Graduate Center
+365 Fifth Avenue, Room 4319
+New York, NY 10016
+Phone: (212) 817-8190
+Fax: (212) 817-1510
+Email: compsci@gc.cuny.edu

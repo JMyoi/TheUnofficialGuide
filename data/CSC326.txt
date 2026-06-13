@@ -1,0 +1,27 @@
+CSC 326
+Download as PDF
+CSC 326 - Data Structures (4 cr)
+Computer ScienceSCI - Division of Science and Tech
+General
+Course Schedule
+
+Course Title
+Data Structures
+Catalog Description
+Fundamental data structures and their implementations, including lists, stacks, queues, priority queues and trees. Recursion, ADTs (abstract data types), algorithms for searching and sorting, basic algorithm analysis.
+Course Attributes
+SPCF - SPCF (Supplemental Course Fees)
+Credit Hours
+Minimum
+4
+Max
+4
+Academic Progress Units
+4
+Requirement Designation
+Regular Non-Liberal Arts
+Prerequisites & Corequisites
+PQ CSC 211 with a grade of C or higher or ENS 336
+Components
+Name
+Lecture

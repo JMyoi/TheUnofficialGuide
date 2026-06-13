@@ -1,0 +1,179 @@
+Faculty
+Professors
+
+Sos Agaian	
+Sos Agaian
+Distinguished Professor
+Email: sos.agaian@csi.cuny.edu
+Office: 1N-203
+Phone: 718-982-2843
+Tatiana Anderson	
+Tatiana Anderson
+Lecturer
+Tatiana.Anderson@csi.cuny.edu
+Office: 1N-210
+Phone: 718-982-2850
+
+
+Cong Chen	
+Cong Chen
+Doctoral Lecturer
+Email: cong.chen@csi.cuny.edu
+Office: 4N-206
+Phone: 718-982-2975
+Kennedy Edemacu	
+Kennedy Edemacu
+Assistant Professor
+Email: Kennedy.Edemacu@csi.cuny.edu
+Office: 1N-208
+Phone: 718-982-3273
+
+
+Feng Gu	
+Feng Gu
+Professor
+Email: feng.gu@csi.cuny.edu
+Office: 1N-201
+Phone: 718-982-2847
+Yumei Huo	
+Yumei Huo
+Professor
+Email: yumei.huo@csi.cuny.edu
+Office: 1N-202
+Phone: 718-982-2841
+
+
+Ali Mahamed	
+Ali Mohamed
+Lecturer
+Email: Ali.Mohamed@csi.cuny.edu
+Office: 1N-210
+Phone: 718-982-2850
+Louis Petingi	
+Louis Petingi
+Professor
+Email: louis.petingi@csi.cuny.edu
+Office: 1N-211
+Phone: 718-982-2844
+
+
+Jun Rao	
+Jun Rao
+Doctoral Lecturer
+Email: Jun.Rao@csi.cuny.edu
+Office: 5N-220
+Phone: 718-982-2854
+Ping Shi	
+Ping Shi
+Lecturer
+Email: Ping.Shi@csi.cuny.edu
+Office: 1N-210
+Phone: 718-982-2850
+
+
+Sarah Zelikovitz	
+Sarah Zelikovitz
+Professor
+Email: sarah.zelikovitz@csi.cuny.edu
+Office: 1N-212
+Phone: 718-982-2849
+Shuqun Zhang	
+Shuqun Zhang
+Professor, Chairperson
+Email: shuqun.zhang@csi.cuny.edu
+Office: 1N-204
+Phone: 718-982-2852
+
+
+Tianxiao Zhang	
+Tianxiao Zhang
+Assistant Professor
+Email: tianxiao.zhang@csi.cuny.edu
+Office: 1N-205
+Phone: 718-982-3288
+Xiaowen Zhang	
+Xiaowen Zhang
+
+Professor
+Email: xiaowen.zhang@csi.cuny.edu
+Office: 1N-213
+Phone: 718-982-3262
+
+
+Zhanyang Zhang	
+Zhanyang Zhang
+Professor
+Email: zhanyang.zhang@csi.cuny.edu
+Office: 1N-206
+Phone: 718-982-3175
+
+
+
+
+Emeritus
+
+Emile ChiBernard DomanskiNatacha GueorguievaAnatoliy Gordonov
+
+Susan ImbermanRoberta KlibanerMichael KressHerbert Schanker
+
+Miriam TausnerDeborah Sturm
+
+Adjuncts
+
+Agman, DanielCatalano, AnthonyAl-Mashhadani, ZaidHayes, Dolores
+
+Jahaj, SafetHills, AmyIacona, LouisWong, Jonathan
+
+Kholodovsky, MichaelKausar, FatmaWeir, RichMichael Deredita
+
+Lavrov,RomanCiaccio,PhilipParziale, JonathanKapaj, Luigi
+
+Wang,ZhiqiYuan, KailieLu, JiaTooker, Joseph
+
+Staff
+Office Staff
+
+Joanne Morris	
+Joanne Morris
+CUNY Administrative Assistant
+Email: joanne.morris@csi.cuny.edu
+Office: 1N-215
+Phone: 718-982-2850
+Laurie Guido	
+Laurie Guido
+College Assistant
+Email: laurie.guido@csi.cuny.edu
+Office: 1N-215
+Phone: 718-982-2850
+
+
+Kristi Brescia	
+Kristi Brescia
+Academic Advisor
+Email: Kristi.Brescia@csi.cuny.edu
+Office: 1N-209
+Phone: 718-982-2842
+Fred Loweff	
+Fred Loweff
+CUNY 2X Manager
+Email: Fred.Loweff@csi.cuny.edu
+Office: 1N-214
+Phone: 718-982-3178
+
+
+
+
+Techinical Staff
+
+Chang Guo	
+Chang Guo
+Senior College Lab Technician
+Email: chang.guo@csi.cuny.edu
+Office: 1N-219
+Phone: 718-982-2857
+Orit D. Gruber	
+Orit D. Gruber
+Chief College Lab Technician
+orit.gruber@csi.cuny.edu
+Office: 1N-218
+Phone: 718-982-3015

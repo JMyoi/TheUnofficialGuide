@@ -1,0 +1,135 @@
+Undergradaute Courses
+CSC 102 Computers for Today
+CSC 115 Introduction to Computer Technology
+CSC 117 Computer Technology Lab
+CSC 119 Computer Technology Concepts
+CSC 126 Introduction to Computer Science
+CSC 135 Introduction to Information Systems
+CSC 140 Computational Problem Solving in Python
+CSC 211 Intermediate Programming
+CSC 215 Assistive Technology for Universal Applications
+CSC 220 Computer Organization
+CSC 221 Networking and Security
+CSC 223 Cybersecurity Fundamentals
+CSC 225 Introduction to Web Development and the Internet
+       Students Work
+CSC 226 Web Database Applications
+CSC 227 Introductory Computer Game Programming
+CSC 228 Discrete Mathematical Structures for Computer Science
+CSC 229 Introduction to High Performance Computing
+CSC 235 Robotic Explorations
+CSC 245 Introduction to Data Science
+CSC 250 Serious Game Development
+CSC 270 Introduction to Scientific Computing
+CSC 305 Operating Systems Programming Laboratory
+CSC 315 Introduction to Database Systems
+CSC 326 Data Structures
+CSC 330 Object-Oriented Software Design
+CSC 332 Operating Systems I
+CSC 346 Digital Systems Design
+CSC 347 Digital Systems Design Laboratory
+CSC 382 Analysis of Algorithms
+CSC 401 Virtual and Augmented Reality
+CSC 412 Machine Learning and Knowledge Discovery
+CSC 420 Concepts of Programming Languages
+CSC 421 Internet Data Communications
+CSC 424 Advanced Database Management Systems
+CSC 425 Shared Memory Parallel Computing
+CSC 426 Applied Cryptography
+CSC 427 Advanced Computer Game Programming
+CSC 429 Advanced High Performance Computing
+CSC 430 Software Engineering
+CSC 435 Advanced Data Communications
+CSC 436 Modern Web Development
+CSC 438 Mobile Application Development
+CSC 446 Computer Architecture
+CSC 450 Honors Workshop
+CSC 455 Neuromorphic Computing
+CSC 462 Microcontrollers
+CSC 470 Introductory Computer Graphics
+CSC 475 Image Processing in Computer Science
+CSC 480 Artificial Intelligence
+CSC 482 Discrete Simulation
+CSC 484 Theory of Computation
+CSC 490 Seminar in Computer Science
+CSC 102 is a general introductory course in computers. This course is not credited toward the major. CSC 115 fulfills the scientific analysis requirements. CSC 126 is the introductory course in the AAS in Computer Technology and the BS in Computer Science program. CSC 126 is a general introductory course in computer science for engineering students and others with similar needs.
+
+ISI 205 Data Communications and IT Infrastructure
+ISI 300 Information Structures for Business
+ISI 315 Information Security and Risk Management
+ISI 334 Business Intelligence and Analytics
+ISI 352 Introduction to Systems Analysis
+ISI 364 Enterprise Computing Strategies
+ISI 374 Information Systems Project Management
+ISI 490 Project in Information Systems and Informatics
+Graduate Courses
+CSC 704 Special Topics Course: Technology-Infused Curriculum Development and Instruction
+CSC 706 Computer Graphics
+CSC 710 Software Engineering
+CSC 711 An Introduction to Computational Thinking for Teachers
+CSC 714 Software Systems Analysis Design
+CSC 715 Database Theory
+CSC 716 Advanced Operating Systems
+CSC 724 Formal Language Theory
+CSC 725 Computer Vision
+CSC 727 Algorithms and Information Structures
+CSC 731 Artificial Intelligence and Knowledge Engineering
+CSC 732 Pattern Recognition and Neural Networks
+CSC 733 Natural Language Processing
+CSC 735 Machine Learning and Data Mining
+CSC 740 Computer System Design
+CSC 741 Digital Image Processing
+CSC 747 Digital Signal Processing
+CSC 754 Topics in System Simulation
+CSC 756 Network Security
+CSC 757 Telecommunication Networks
+CSC 759 Graduate Research Laboratory
+CSC 762 Fundamentals of Wireless Communications
+CSC 767 Neural Networks and Deep Learning
+CSC 768 Cryptography
+CSC 769 Graph-Based Analysis for Big Data in Social Networks
+CSC 770 Parallel Computing
+CSC 704 is for Teachers on Sabbatical program and CSC 711 is for Education MS program. These courses are not credited toward the MS degree.
+
+Ph.D. Courses
+Graduate Center Computer Science Class Schedule
+
+Data Science
+
+Big Data Analytics
+Data Mining
+Data Visualization
+Data Base Management Systems
+Machine Learning, Modeling and Optimization
+
+Machine Learning
+Machine Learning in Quantitative Finance
+Graphical Models
+Quickest Detection of Abrupt Changes
+Modeling and Simulation
+Stochastic Optimization
+Theory
+
+Advanced Data Structures
+Algorithms for Big Data
+Artificial Intelligence
+Combinatorial Algorithms
+Computing
+
+Parallel Scientific Computing
+Programming Massively Parallel Systems
+Text Data
+
+Natural Language Processing
+Text Mining
+Pattern Matching
+Web Information Retrieval and Data Mining
+Visual Data
+
+Computer Vision and Image Processing
+3D Photography
+Vision, Brain, and Assistive Technologies
+Social and Cultural
+
+Social Network Analysis
+Social and Cultural Computing
