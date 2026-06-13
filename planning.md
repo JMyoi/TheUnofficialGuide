@@ -189,4 +189,23 @@ BS Program Enrollment
 
 **Milestone 4 — Embedding and retrieval:**
 
+QUERY: What are the core courses in the computer science major?
+============================================================
+
+[1] source: Undergraduate.txt  |  chunk_index: 155  |  distance: 0.277
+The Computer Science program offers a full four-year curriculum in computer science that prepares students for careers as computer professionals and/or for graduate study. The major provides a broad-based background in computer science and includes courses in computer software, systems, mathematics, and computer engineering. A student, under the guidance of a computer science adviser, may also select additional courses to pursue particular interests. Students interested in transferring into the
+
+[2] source: CSHomePage.txt  |  chunk_index: 94  |  distance: 0.2994
+The Computer Science Department offers programs that prepare students for careers as computer professionals and/or for continued study. The major provides a broad-based background in computer science and includes courses in computer software, computer systems, mathematics, network security, and computer hardware. We are committed to offering courses that stay current with changing technologies. Our BS in Computer Science degree is accredited by the Computing Accreditation Commission of ABET
+
+[3] source: Graduate.txt  |  chunk_index: 140  |  distance: 0.3194
+Undergraduate students majoring in Computer Science or CS/Mathematics and satisfying the following criteria may be granted permission to take up to three graduate courses at undergraduate tuition to be counted towards their bachelor’s degree. These courses may be used only to substitute for 400 level Computer Science elective courses (CSC designation). These graduate courses will be double-counted toward their master’s degree. This allows students to earn both the bachelor’s and the master’s
+
+[4] source: Undergraduate.txt  |  chunk_index: 168  |  distance: 0.3194
+Undergraduate students majoring in Computer Science or CS/Mathematics and satisfying the following criteria may be granted permission to take up to three graduate courses at undergraduate tuition to be counted towards their bachelor’s degree. These courses may be used only to substitute for 400 level Computer Science elective courses (CSC designation). These graduate courses will be double-counted toward their master’s degree. This allows students to earn both the bachelor’s and the master’s
+
+[5] source: CSICSPage.txt  |  chunk_index: 110  |  distance: 0.331
+The Computer Science Department offers programs that prepare students for careers as computer professionals and/or for continued study. The major provides a broad-based background in computer science and includes courses in computer software, computer systems, mathematics, network security, and computer hardware. We are committed to offering courses that stay current with changing technologies. Our BS degree is accredited by the Computing Accreditation Commission of the Accreditation Board for
+
+
 **Milestone 5 — Generation and interface:**
